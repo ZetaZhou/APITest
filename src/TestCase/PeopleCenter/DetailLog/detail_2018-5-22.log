@@ -1,0 +1,16 @@
+Tue, 22 May 2018 17:31:26 1_Userdata.py[line:91] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:31:26 1_Userdata.py[line:21] INFO [*] Run funciton : Userdata
+Tue, 22 May 2018 17:31:26 1_Userdata.py[line:48] ERROR [!] Function failed : "name='vill_token', domain=None, path=None"
+Tue, 22 May 2018 17:31:26 1_Userdata.py[line:98] INFO ########### Test end ########### 
+
+Tue, 22 May 2018 17:31:47 1_Userdata.py[line:91] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:31:47 1_Userdata.py[line:58] INFO [*] Run funciton : Login
+Tue, 22 May 2018 17:31:47 1_Userdata.py[line:75] INFO [*] Response Data: {"retCode":"success","retMsg":"登录成功","totalNum":0}
+Tue, 22 May 2018 17:31:47 1_Userdata.py[line:76] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:31:47 1_Userdata.py[line:21] INFO [*] Run funciton : Userdata
+Tue, 22 May 2018 17:31:47 1_Userdata.py[line:38] INFO [*] Response Data: {"data":{"instFname":"中国,江苏省,镇江市,丹徒新区","phone":"13720277761","userId":"10000000","userName":"李乐","userType":"0","userTypeStr":"云平台管理员","validDate":1530374400000,"validDateStr":"至2018-07-01"},"retCode":"success","totalNum":0}
+Tue, 22 May 2018 17:31:47 1_Userdata.py[line:39] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:31:47 1_Userdata.py[line:98] INFO ########### Test end ########### 
+

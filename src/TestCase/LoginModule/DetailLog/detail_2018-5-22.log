@@ -1,0 +1,295 @@
+Tue, 22 May 2018 17:10:55 1_Login.py[line:151] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:10:55 1_Login.py[line:19] INFO [*] Run funciton : Login
+Tue, 22 May 2018 17:10:55 1_Login.py[line:34] INFO [*] Response Data: {"retCode":"success","retMsg":"登录成功","totalNum":0}
+Tue, 22 May 2018 17:10:55 1_Login.py[line:35] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:10:55 1_Login.py[line:53] INFO [*] Run funciton : Login_errPwd
+Tue, 22 May 2018 17:10:55 1_Login.py[line:68] INFO [*] Response Data: {"retCode":"fail","retMsg":"登录失败，用户名密码错误","totalNum":0}
+Tue, 22 May 2018 17:10:55 1_Login.py[line:69] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:10:55 1_Login.py[line:87] INFO [*] Run funciton : Login_blankPwd
+Tue, 22 May 2018 17:10:55 1_Login.py[line:102] INFO [*] Response Data: {"retCode":"fail","retMsg":"登录失败，密码不能为空","totalNum":0}
+Tue, 22 May 2018 17:10:55 1_Login.py[line:103] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:10:55 1_Login.py[line:121] INFO [*] Run funciton : Login_blankUser
+Tue, 22 May 2018 17:10:55 1_Login.py[line:136] INFO [*] Response Data: {"retCode":"fail","retMsg":"登录失败，用户名不能为空","totalNum":0}
+Tue, 22 May 2018 17:10:55 1_Login.py[line:137] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:10:55 1_Login.py[line:158] INFO ########### Test end ########### 
+
+Tue, 22 May 2018 17:10:55 2_FirstLogin.py[line:52] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:10:55 2_FirstLogin.py[line:19] INFO [*] Run funciton : FirstLogin
+Tue, 22 May 2018 17:10:55 2_FirstLogin.py[line:39] INFO [*] Response Data: {"retCode":"fail","retMsg":"短信验证码无效，请重新获取","totalNum":0}
+Tue, 22 May 2018 17:10:55 2_FirstLogin.py[line:40] INFO [*] Function failed 
+Tue, 22 May 2018 17:10:55 2_FirstLogin.py[line:56] INFO ########### Test end ########### 
+
+Tue, 22 May 2018 17:10:56 3_Logout.py[line:128] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:10:56 3_Logout.py[line:95] INFO [*] Run funciton : Login
+Tue, 22 May 2018 17:10:56 3_Logout.py[line:112] INFO [*] Response Data: {"retCode":"success","retMsg":"登录成功","totalNum":0}
+Tue, 22 May 2018 17:10:56 3_Logout.py[line:113] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:10:56 3_Logout.py[line:22] INFO [*] Run funciton : Logout
+Tue, 22 May 2018 17:10:56 3_Logout.py[line:39] INFO [*] Response Data: {"retCode":"success","retMsg":"退出成功！","totalNum":0}
+Tue, 22 May 2018 17:10:56 3_Logout.py[line:40] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:10:56 3_Logout.py[line:58] INFO [*] Run funciton : Logout_err
+Tue, 22 May 2018 17:10:56 3_Logout.py[line:75] INFO [*] Response Data: {"retCode":"fail","retMsg":"退出失败！","totalNum":0}
+Tue, 22 May 2018 17:10:56 3_Logout.py[line:76] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:10:56 3_Logout.py[line:134] INFO ########### Test end ########### 
+
+Tue, 22 May 2018 17:10:56 4_ModifyPwd.py[line:167] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:10:56 4_ModifyPwd.py[line:134] INFO [*] Run funciton : Login
+Tue, 22 May 2018 17:10:56 4_ModifyPwd.py[line:151] INFO [*] Response Data: {"retCode":"success","retMsg":"登录成功","totalNum":0}
+Tue, 22 May 2018 17:10:56 4_ModifyPwd.py[line:152] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:10:56 4_ModifyPwd.py[line:21] INFO [*] Run funciton : ModifyPwd
+Tue, 22 May 2018 17:10:56 4_ModifyPwd.py[line:38] INFO [*] Response Data: {"retCode":"success","retMsg":"重置成功","totalNum":0}
+Tue, 22 May 2018 17:10:56 4_ModifyPwd.py[line:39] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:10:56 4_ModifyPwd.py[line:60] INFO [*] Run funciton : ModifyPwd_reset
+Tue, 22 May 2018 17:10:56 4_ModifyPwd.py[line:77] INFO [*] Response Data: {"retCode":"success","retMsg":"重置成功","totalNum":0}
+Tue, 22 May 2018 17:10:56 4_ModifyPwd.py[line:78] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:10:56 4_ModifyPwd.py[line:97] INFO [*] Run funciton : ModifyPwd_err
+Tue, 22 May 2018 17:10:56 4_ModifyPwd.py[line:114] INFO [*] Response Data: {"retCode":"fail","retMsg":"重置失败，当前密码错误","totalNum":0}
+Tue, 22 May 2018 17:10:56 4_ModifyPwd.py[line:115] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:10:56 4_ModifyPwd.py[line:174] INFO ########### Test end ########### 
+
+Tue, 22 May 2018 17:26:28 1_Login.py[line:151] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:26:28 1_Login.py[line:19] INFO [*] Run funciton : Login
+Tue, 22 May 2018 17:26:28 1_Login.py[line:34] INFO [*] Response Data: {"retCode":"success","retMsg":"登录成功","totalNum":0}
+Tue, 22 May 2018 17:26:28 1_Login.py[line:35] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:26:28 1_Login.py[line:53] INFO [*] Run funciton : Login_errPwd
+Tue, 22 May 2018 17:26:28 1_Login.py[line:68] INFO [*] Response Data: {"retCode":"fail","retMsg":"登录失败，用户名密码错误","totalNum":0}
+Tue, 22 May 2018 17:26:28 1_Login.py[line:69] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:26:28 1_Login.py[line:87] INFO [*] Run funciton : Login_blankPwd
+Tue, 22 May 2018 17:26:28 1_Login.py[line:102] INFO [*] Response Data: {"retCode":"fail","retMsg":"登录失败，密码不能为空","totalNum":0}
+Tue, 22 May 2018 17:26:28 1_Login.py[line:103] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:26:28 1_Login.py[line:121] INFO [*] Run funciton : Login_blankUser
+Tue, 22 May 2018 17:26:28 1_Login.py[line:136] INFO [*] Response Data: {"retCode":"fail","retMsg":"登录失败，用户名不能为空","totalNum":0}
+Tue, 22 May 2018 17:26:28 1_Login.py[line:137] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:26:28 1_Login.py[line:158] INFO ########### Test end ########### 
+
+Tue, 22 May 2018 17:26:29 2_FirstLogin.py[line:52] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:26:29 2_FirstLogin.py[line:19] INFO [*] Run funciton : FirstLogin
+Tue, 22 May 2018 17:26:29 2_FirstLogin.py[line:39] INFO [*] Response Data: {"retCode":"fail","retMsg":"短信验证码无效，请重新获取","totalNum":0}
+Tue, 22 May 2018 17:26:29 2_FirstLogin.py[line:40] INFO [*] Function failed 
+Tue, 22 May 2018 17:26:29 2_FirstLogin.py[line:56] INFO ########### Test end ########### 
+
+Tue, 22 May 2018 17:26:29 3_Logout.py[line:128] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:26:29 3_Logout.py[line:95] INFO [*] Run funciton : Login
+Tue, 22 May 2018 17:26:29 3_Logout.py[line:112] INFO [*] Response Data: {"retCode":"success","retMsg":"登录成功","totalNum":0}
+Tue, 22 May 2018 17:26:29 3_Logout.py[line:113] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:26:29 3_Logout.py[line:22] INFO [*] Run funciton : Logout
+Tue, 22 May 2018 17:26:29 3_Logout.py[line:39] INFO [*] Response Data: {"retCode":"success","retMsg":"退出成功！","totalNum":0}
+Tue, 22 May 2018 17:26:29 3_Logout.py[line:40] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:26:29 3_Logout.py[line:58] INFO [*] Run funciton : Logout_err
+Tue, 22 May 2018 17:26:29 3_Logout.py[line:75] INFO [*] Response Data: {"retCode":"fail","retMsg":"退出失败！","totalNum":0}
+Tue, 22 May 2018 17:26:29 3_Logout.py[line:76] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:26:29 3_Logout.py[line:134] INFO ########### Test end ########### 
+
+Tue, 22 May 2018 17:26:30 4_ModifyPwd.py[line:167] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:26:30 4_ModifyPwd.py[line:134] INFO [*] Run funciton : Login
+Tue, 22 May 2018 17:26:30 4_ModifyPwd.py[line:151] INFO [*] Response Data: {"retCode":"success","retMsg":"登录成功","totalNum":0}
+Tue, 22 May 2018 17:26:30 4_ModifyPwd.py[line:152] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:26:30 4_ModifyPwd.py[line:21] INFO [*] Run funciton : ModifyPwd
+Tue, 22 May 2018 17:26:30 4_ModifyPwd.py[line:38] INFO [*] Response Data: {"retCode":"success","retMsg":"重置成功","totalNum":0}
+Tue, 22 May 2018 17:26:30 4_ModifyPwd.py[line:39] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:26:30 4_ModifyPwd.py[line:60] INFO [*] Run funciton : ModifyPwd_reset
+Tue, 22 May 2018 17:26:30 4_ModifyPwd.py[line:77] INFO [*] Response Data: {"retCode":"success","retMsg":"重置成功","totalNum":0}
+Tue, 22 May 2018 17:26:30 4_ModifyPwd.py[line:78] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:26:30 4_ModifyPwd.py[line:97] INFO [*] Run funciton : ModifyPwd_err
+Tue, 22 May 2018 17:26:30 4_ModifyPwd.py[line:114] INFO [*] Response Data: {"retCode":"fail","retMsg":"重置失败，当前密码错误","totalNum":0}
+Tue, 22 May 2018 17:26:30 4_ModifyPwd.py[line:115] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:26:30 4_ModifyPwd.py[line:174] INFO ########### Test end ########### 
+
+Tue, 22 May 2018 17:28:40 1_Login.py[line:151] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:28:40 1_Login.py[line:19] INFO [*] Run funciton : Login
+Tue, 22 May 2018 17:28:40 1_Login.py[line:34] INFO [*] Response Data: {"retCode":"success","retMsg":"登录成功","totalNum":0}
+Tue, 22 May 2018 17:28:40 1_Login.py[line:35] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:28:40 1_Login.py[line:53] INFO [*] Run funciton : Login_errPwd
+Tue, 22 May 2018 17:28:40 1_Login.py[line:68] INFO [*] Response Data: {"retCode":"fail","retMsg":"登录失败，用户名密码错误","totalNum":0}
+Tue, 22 May 2018 17:28:40 1_Login.py[line:69] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:28:40 1_Login.py[line:87] INFO [*] Run funciton : Login_blankPwd
+Tue, 22 May 2018 17:28:40 1_Login.py[line:102] INFO [*] Response Data: {"retCode":"fail","retMsg":"登录失败，密码不能为空","totalNum":0}
+Tue, 22 May 2018 17:28:40 1_Login.py[line:103] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:28:40 1_Login.py[line:121] INFO [*] Run funciton : Login_blankUser
+Tue, 22 May 2018 17:28:40 1_Login.py[line:136] INFO [*] Response Data: {"retCode":"fail","retMsg":"登录失败，用户名不能为空","totalNum":0}
+Tue, 22 May 2018 17:28:40 1_Login.py[line:137] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:28:40 1_Login.py[line:158] INFO ########### Test end ########### 
+
+Tue, 22 May 2018 17:28:41 2_FirstLogin.py[line:52] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:28:41 2_FirstLogin.py[line:19] INFO [*] Run funciton : FirstLogin
+Tue, 22 May 2018 17:28:41 2_FirstLogin.py[line:39] INFO [*] Response Data: {"retCode":"fail","retMsg":"短信验证码无效，请重新获取","totalNum":0}
+Tue, 22 May 2018 17:28:41 2_FirstLogin.py[line:40] INFO [*] Function failed 
+Tue, 22 May 2018 17:28:41 2_FirstLogin.py[line:56] INFO ########### Test end ########### 
+
+Tue, 22 May 2018 17:28:41 3_Logout.py[line:128] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:28:41 3_Logout.py[line:95] INFO [*] Run funciton : Login
+Tue, 22 May 2018 17:28:41 3_Logout.py[line:112] INFO [*] Response Data: {"retCode":"success","retMsg":"登录成功","totalNum":0}
+Tue, 22 May 2018 17:28:41 3_Logout.py[line:113] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:28:41 3_Logout.py[line:22] INFO [*] Run funciton : Logout
+Tue, 22 May 2018 17:28:41 3_Logout.py[line:39] INFO [*] Response Data: {"retCode":"success","retMsg":"退出成功！","totalNum":0}
+Tue, 22 May 2018 17:28:41 3_Logout.py[line:40] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:28:41 3_Logout.py[line:58] INFO [*] Run funciton : Logout_err
+Tue, 22 May 2018 17:28:41 3_Logout.py[line:75] INFO [*] Response Data: {"retCode":"fail","retMsg":"退出失败！","totalNum":0}
+Tue, 22 May 2018 17:28:41 3_Logout.py[line:76] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:28:41 3_Logout.py[line:134] INFO ########### Test end ########### 
+
+Tue, 22 May 2018 17:28:41 4_ModifyPwd.py[line:167] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:28:41 4_ModifyPwd.py[line:134] INFO [*] Run funciton : Login
+Tue, 22 May 2018 17:28:42 4_ModifyPwd.py[line:151] INFO [*] Response Data: {"retCode":"success","retMsg":"登录成功","totalNum":0}
+Tue, 22 May 2018 17:28:42 4_ModifyPwd.py[line:152] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:28:42 4_ModifyPwd.py[line:21] INFO [*] Run funciton : ModifyPwd
+Tue, 22 May 2018 17:28:42 4_ModifyPwd.py[line:38] INFO [*] Response Data: {"retCode":"success","retMsg":"重置成功","totalNum":0}
+Tue, 22 May 2018 17:28:42 4_ModifyPwd.py[line:39] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:28:42 4_ModifyPwd.py[line:60] INFO [*] Run funciton : ModifyPwd_reset
+Tue, 22 May 2018 17:28:42 4_ModifyPwd.py[line:77] INFO [*] Response Data: {"retCode":"success","retMsg":"重置成功","totalNum":0}
+Tue, 22 May 2018 17:28:42 4_ModifyPwd.py[line:78] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:28:42 4_ModifyPwd.py[line:97] INFO [*] Run funciton : ModifyPwd_err
+Tue, 22 May 2018 17:28:42 4_ModifyPwd.py[line:114] INFO [*] Response Data: {"retCode":"fail","retMsg":"重置失败，当前密码错误","totalNum":0}
+Tue, 22 May 2018 17:28:42 4_ModifyPwd.py[line:115] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:28:42 4_ModifyPwd.py[line:174] INFO ########### Test end ########### 
+
+Tue, 22 May 2018 17:31:24 1_Login.py[line:151] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:31:24 1_Login.py[line:19] INFO [*] Run funciton : Login
+Tue, 22 May 2018 17:31:24 1_Login.py[line:34] INFO [*] Response Data: {"retCode":"success","retMsg":"登录成功","totalNum":0}
+Tue, 22 May 2018 17:31:24 1_Login.py[line:35] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:31:24 1_Login.py[line:53] INFO [*] Run funciton : Login_errPwd
+Tue, 22 May 2018 17:31:24 1_Login.py[line:68] INFO [*] Response Data: {"retCode":"fail","retMsg":"登录失败，用户名密码错误","totalNum":0}
+Tue, 22 May 2018 17:31:24 1_Login.py[line:69] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:31:24 1_Login.py[line:87] INFO [*] Run funciton : Login_blankPwd
+Tue, 22 May 2018 17:31:24 1_Login.py[line:102] INFO [*] Response Data: {"retCode":"fail","retMsg":"登录失败，密码不能为空","totalNum":0}
+Tue, 22 May 2018 17:31:24 1_Login.py[line:103] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:31:24 1_Login.py[line:121] INFO [*] Run funciton : Login_blankUser
+Tue, 22 May 2018 17:31:24 1_Login.py[line:136] INFO [*] Response Data: {"retCode":"fail","retMsg":"登录失败，用户名不能为空","totalNum":0}
+Tue, 22 May 2018 17:31:24 1_Login.py[line:137] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:31:24 1_Login.py[line:158] INFO ########### Test end ########### 
+
+Tue, 22 May 2018 17:31:25 2_FirstLogin.py[line:52] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:31:25 2_FirstLogin.py[line:19] INFO [*] Run funciton : FirstLogin
+Tue, 22 May 2018 17:31:25 2_FirstLogin.py[line:39] INFO [*] Response Data: {"retCode":"fail","retMsg":"短信验证码无效，请重新获取","totalNum":0}
+Tue, 22 May 2018 17:31:25 2_FirstLogin.py[line:40] INFO [*] Function failed 
+Tue, 22 May 2018 17:31:25 2_FirstLogin.py[line:56] INFO ########### Test end ########### 
+
+Tue, 22 May 2018 17:31:25 3_Logout.py[line:128] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:31:25 3_Logout.py[line:95] INFO [*] Run funciton : Login
+Tue, 22 May 2018 17:31:25 3_Logout.py[line:112] INFO [*] Response Data: {"retCode":"success","retMsg":"登录成功","totalNum":0}
+Tue, 22 May 2018 17:31:25 3_Logout.py[line:113] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:31:25 3_Logout.py[line:22] INFO [*] Run funciton : Logout
+Tue, 22 May 2018 17:31:25 3_Logout.py[line:39] INFO [*] Response Data: {"retCode":"success","retMsg":"退出成功！","totalNum":0}
+Tue, 22 May 2018 17:31:25 3_Logout.py[line:40] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:31:25 3_Logout.py[line:58] INFO [*] Run funciton : Logout_err
+Tue, 22 May 2018 17:31:25 3_Logout.py[line:75] INFO [*] Response Data: {"retCode":"fail","retMsg":"退出失败！","totalNum":0}
+Tue, 22 May 2018 17:31:25 3_Logout.py[line:76] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:31:25 3_Logout.py[line:134] INFO ########### Test end ########### 
+
+Tue, 22 May 2018 17:31:26 4_ModifyPwd.py[line:167] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:31:26 4_ModifyPwd.py[line:134] INFO [*] Run funciton : Login
+Tue, 22 May 2018 17:31:26 4_ModifyPwd.py[line:151] INFO [*] Response Data: {"retCode":"success","retMsg":"登录成功","totalNum":0}
+Tue, 22 May 2018 17:31:26 4_ModifyPwd.py[line:152] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:31:26 4_ModifyPwd.py[line:21] INFO [*] Run funciton : ModifyPwd
+Tue, 22 May 2018 17:31:26 4_ModifyPwd.py[line:38] INFO [*] Response Data: {"retCode":"success","retMsg":"重置成功","totalNum":0}
+Tue, 22 May 2018 17:31:26 4_ModifyPwd.py[line:39] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:31:26 4_ModifyPwd.py[line:60] INFO [*] Run funciton : ModifyPwd_reset
+Tue, 22 May 2018 17:31:26 4_ModifyPwd.py[line:77] INFO [*] Response Data: {"retCode":"success","retMsg":"重置成功","totalNum":0}
+Tue, 22 May 2018 17:31:26 4_ModifyPwd.py[line:78] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:31:26 4_ModifyPwd.py[line:97] INFO [*] Run funciton : ModifyPwd_err
+Tue, 22 May 2018 17:31:26 4_ModifyPwd.py[line:114] INFO [*] Response Data: {"retCode":"fail","retMsg":"重置失败，当前密码错误","totalNum":0}
+Tue, 22 May 2018 17:31:26 4_ModifyPwd.py[line:115] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:31:26 4_ModifyPwd.py[line:174] INFO ########### Test end ########### 
+
+Tue, 22 May 2018 17:31:45 1_Login.py[line:151] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:31:45 1_Login.py[line:19] INFO [*] Run funciton : Login
+Tue, 22 May 2018 17:31:45 1_Login.py[line:34] INFO [*] Response Data: {"retCode":"success","retMsg":"登录成功","totalNum":0}
+Tue, 22 May 2018 17:31:45 1_Login.py[line:35] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:31:45 1_Login.py[line:53] INFO [*] Run funciton : Login_errPwd
+Tue, 22 May 2018 17:31:45 1_Login.py[line:68] INFO [*] Response Data: {"retCode":"fail","retMsg":"登录失败，用户名密码错误","totalNum":0}
+Tue, 22 May 2018 17:31:45 1_Login.py[line:69] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:31:45 1_Login.py[line:87] INFO [*] Run funciton : Login_blankPwd
+Tue, 22 May 2018 17:31:45 1_Login.py[line:102] INFO [*] Response Data: {"retCode":"fail","retMsg":"登录失败，密码不能为空","totalNum":0}
+Tue, 22 May 2018 17:31:45 1_Login.py[line:103] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:31:45 1_Login.py[line:121] INFO [*] Run funciton : Login_blankUser
+Tue, 22 May 2018 17:31:45 1_Login.py[line:136] INFO [*] Response Data: {"retCode":"fail","retMsg":"登录失败，用户名不能为空","totalNum":0}
+Tue, 22 May 2018 17:31:45 1_Login.py[line:137] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:31:45 1_Login.py[line:158] INFO ########### Test end ########### 
+
+Tue, 22 May 2018 17:31:45 2_FirstLogin.py[line:52] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:31:45 2_FirstLogin.py[line:19] INFO [*] Run funciton : FirstLogin
+Tue, 22 May 2018 17:31:45 2_FirstLogin.py[line:39] INFO [*] Response Data: {"retCode":"fail","retMsg":"短信验证码无效，请重新获取","totalNum":0}
+Tue, 22 May 2018 17:31:45 2_FirstLogin.py[line:40] INFO [*] Function failed 
+Tue, 22 May 2018 17:31:45 2_FirstLogin.py[line:56] INFO ########### Test end ########### 
+
+Tue, 22 May 2018 17:31:46 3_Logout.py[line:128] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:31:46 3_Logout.py[line:95] INFO [*] Run funciton : Login
+Tue, 22 May 2018 17:31:46 3_Logout.py[line:112] INFO [*] Response Data: {"retCode":"success","retMsg":"登录成功","totalNum":0}
+Tue, 22 May 2018 17:31:46 3_Logout.py[line:113] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:31:46 3_Logout.py[line:22] INFO [*] Run funciton : Logout
+Tue, 22 May 2018 17:31:46 3_Logout.py[line:39] INFO [*] Response Data: {"retCode":"success","retMsg":"退出成功！","totalNum":0}
+Tue, 22 May 2018 17:31:46 3_Logout.py[line:40] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:31:46 3_Logout.py[line:58] INFO [*] Run funciton : Logout_err
+Tue, 22 May 2018 17:31:46 3_Logout.py[line:75] INFO [*] Response Data: {"retCode":"fail","retMsg":"退出失败！","totalNum":0}
+Tue, 22 May 2018 17:31:46 3_Logout.py[line:76] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:31:46 3_Logout.py[line:134] INFO ########### Test end ########### 
+
+Tue, 22 May 2018 17:31:46 4_ModifyPwd.py[line:167] INFO ########### Test start ########### 
+Tue, 22 May 2018 17:31:46 4_ModifyPwd.py[line:134] INFO [*] Run funciton : Login
+Tue, 22 May 2018 17:31:46 4_ModifyPwd.py[line:151] INFO [*] Response Data: {"retCode":"success","retMsg":"登录成功","totalNum":0}
+Tue, 22 May 2018 17:31:46 4_ModifyPwd.py[line:152] INFO [*] Function pass 
+ 
+Tue, 22 May 2018 17:31:46 4_ModifyPwd.py[line:21] INFO [*] Run funciton : ModifyPwd
+Tue, 22 May 2018 17:31:46 4_ModifyPwd.py[line:38] INFO [*] Response Data: {"retCode":"success","retMsg":"重置成功","totalNum":0}
+Tue, 22 May 2018 17:31:46 4_ModifyPwd.py[line:39] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:31:46 4_ModifyPwd.py[line:60] INFO [*] Run funciton : ModifyPwd_reset
+Tue, 22 May 2018 17:31:46 4_ModifyPwd.py[line:77] INFO [*] Response Data: {"retCode":"success","retMsg":"重置成功","totalNum":0}
+Tue, 22 May 2018 17:31:46 4_ModifyPwd.py[line:78] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:31:46 4_ModifyPwd.py[line:97] INFO [*] Run funciton : ModifyPwd_err
+Tue, 22 May 2018 17:31:46 4_ModifyPwd.py[line:114] INFO [*] Response Data: {"retCode":"fail","retMsg":"重置失败，当前密码错误","totalNum":0}
+Tue, 22 May 2018 17:31:46 4_ModifyPwd.py[line:115] INFO [*] Function pass 
+
+Tue, 22 May 2018 17:31:46 4_ModifyPwd.py[line:174] INFO ########### Test end ########### 
+

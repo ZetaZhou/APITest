@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+	<prames>
+		<prame Item="Host" data="http://192.168.1.245"/>
+		<prame Item="Port" data="8081"/>
+	</prames>
+</project>

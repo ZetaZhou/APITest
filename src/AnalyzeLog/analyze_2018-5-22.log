@@ -1,0 +1,536 @@
+Tue, 22 May 2018 14:32:53 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 14:32:53 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 14:32:53 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.505029S) 
+
+Tue, 22 May 2018 14:32:53 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_Index_page.py   <<<  Started !  
+Tue, 22 May 2018 14:32:53 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_Index_page.py   <<<  Ended ! 
+Tue, 22 May 2018 14:32:53 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.409023S) 
+
+Tue, 22 May 2018 14:32:53 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 1 ] / [failCount] : [ 1 ]  
+Tue, 22 May 2018 14:39:27 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 14:39:28 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 14:39:28 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.512030S) 
+
+Tue, 22 May 2018 14:39:28 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 1 ] / [failCount] : [ 0 ]  
+Tue, 22 May 2018 14:40:57 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 14:40:57 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 14:40:57 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.529030S) 
+
+Tue, 22 May 2018 14:40:57 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 1 ] / [failCount] : [ 0 ]  
+Tue, 22 May 2018 14:41:54 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 14:41:55 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 14:41:55 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.517030S) 
+
+Tue, 22 May 2018 14:41:55 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 1 ] / [failCount] : [ 0 ]  
+Tue, 22 May 2018 14:44:00 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 14:44:01 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 14:44:01 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.524030S) 
+
+Tue, 22 May 2018 14:44:01 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 1 ] / [failCount] : [ 0 ]  
+Tue, 22 May 2018 14:46:48 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 14:46:49 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 14:46:49 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.546032S) 
+
+Tue, 22 May 2018 14:46:49 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 1 ] / [failCount] : [ 0 ]  
+Tue, 22 May 2018 15:05:35 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 15:05:35 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 15:05:35 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.540031S) 
+
+Tue, 22 May 2018 15:05:35 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 15:05:36 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 15:05:36 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.471027S) 
+
+Tue, 22 May 2018 15:05:36 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 1 ] / [failCount] : [ 1 ]  
+Tue, 22 May 2018 15:06:12 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 15:06:13 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 15:06:13 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.624036S) 
+
+Tue, 22 May 2018 15:06:13 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 15:06:13 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 15:06:13 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.464026S) 
+
+Tue, 22 May 2018 15:06:13 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 1 ] / [failCount] : [ 1 ]  
+Tue, 22 May 2018 15:07:18 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 15:07:18 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 15:07:18 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.526030S) 
+
+Tue, 22 May 2018 15:07:18 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 15:07:18 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 15:07:18 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.448025S) 
+
+Tue, 22 May 2018 15:07:18 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 1 ] / [failCount] : [ 1 ]  
+Tue, 22 May 2018 15:07:42 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 15:07:43 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 15:07:43 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.614036S) 
+
+Tue, 22 May 2018 15:07:43 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 15:07:43 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 15:07:43 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.484027S) 
+
+Tue, 22 May 2018 15:07:43 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 1 ] / [failCount] : [ 1 ]  
+Tue, 22 May 2018 15:09:24 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 15:09:24 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 15:09:24 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.534030S) 
+
+Tue, 22 May 2018 15:09:24 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 15:09:25 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 15:09:25 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.490028S) 
+
+Tue, 22 May 2018 15:09:25 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 1 ] / [failCount] : [ 1 ]  
+Tue, 22 May 2018 15:11:39 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 15:11:40 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 15:11:40 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.537031S) 
+
+Tue, 22 May 2018 15:11:40 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 15:11:40 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 15:11:40 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.470027S) 
+
+Tue, 22 May 2018 15:11:40 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 1 ] / [failCount] : [ 1 ]  
+Tue, 22 May 2018 15:14:09 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 15:14:10 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 15:14:10 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.545031S) 
+
+Tue, 22 May 2018 15:14:10 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 15:14:10 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 15:14:10 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.479027S) 
+
+Tue, 22 May 2018 15:14:10 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 15:14:11 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 15:14:11 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.455026S) 
+
+Tue, 22 May 2018 15:14:11 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 1 ] / [failCount] : [ 2 ]  
+Tue, 22 May 2018 15:17:09 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 15:17:09 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 15:17:09 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.565033S) 
+
+Tue, 22 May 2018 15:17:09 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 15:17:10 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 15:17:10 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.505029S) 
+
+Tue, 22 May 2018 15:17:10 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 15:17:10 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 15:17:10 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.447025S) 
+
+Tue, 22 May 2018 15:17:10 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 1 ] / [failCount] : [ 2 ]  
+Tue, 22 May 2018 15:20:21 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 15:20:21 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 15:20:21 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.573033S) 
+
+Tue, 22 May 2018 15:20:21 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 15:20:22 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 15:20:22 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.461026S) 
+
+Tue, 22 May 2018 15:20:22 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 15:20:22 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 15:20:22 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.467026S) 
+
+Tue, 22 May 2018 15:20:22 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 1 ] / [failCount] : [ 2 ]  
+Tue, 22 May 2018 15:30:26 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 15:30:27 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 15:30:27 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.550032S) 
+
+Tue, 22 May 2018 15:30:27 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 15:30:27 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 15:30:27 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.453026S) 
+
+Tue, 22 May 2018 15:30:27 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 15:30:28 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 15:30:28 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.477027S) 
+
+Tue, 22 May 2018 15:30:28 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 1 ] / [failCount] : [ 2 ]  
+Tue, 22 May 2018 15:30:55 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 15:30:56 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 15:30:56 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.588033S) 
+
+Tue, 22 May 2018 15:30:56 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 15:30:56 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 15:30:56 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.451026S) 
+
+Tue, 22 May 2018 15:30:56 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 15:30:57 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 15:30:57 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.475027S) 
+
+Tue, 22 May 2018 15:30:57 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 1 ] / [failCount] : [ 2 ]  
+Tue, 22 May 2018 15:34:24 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 15:34:25 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 15:34:25 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.521030S) 
+
+Tue, 22 May 2018 15:34:25 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 15:34:25 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 15:34:25 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.454026S) 
+
+Tue, 22 May 2018 15:34:25 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 15:34:26 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 15:34:26 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.508029S) 
+
+Tue, 22 May 2018 15:34:26 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 2 ] / [failCount] : [ 1 ]  
+Tue, 22 May 2018 15:34:52 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 15:34:53 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 15:34:53 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.517030S) 
+
+Tue, 22 May 2018 15:34:53 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 15:34:53 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 15:34:53 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.459026S) 
+
+Tue, 22 May 2018 15:34:53 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 15:34:54 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 15:34:54 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.515030S) 
+
+Tue, 22 May 2018 15:34:54 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 2 ] / [failCount] : [ 1 ]  
+Tue, 22 May 2018 15:37:03 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 15:37:03 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 15:37:03 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.546031S) 
+
+Tue, 22 May 2018 15:37:03 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 15:37:04 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 15:37:04 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.464027S) 
+
+Tue, 22 May 2018 15:37:04 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 15:37:04 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 15:37:04 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.515029S) 
+
+Tue, 22 May 2018 15:37:04 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 1 ] / [failCount] : [ 2 ]  
+Tue, 22 May 2018 15:37:21 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 15:37:21 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 15:37:21 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.520030S) 
+
+Tue, 22 May 2018 15:37:21 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 15:37:22 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 15:37:22 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.464026S) 
+
+Tue, 22 May 2018 15:37:22 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 15:37:22 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 15:37:22 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.479028S) 
+
+Tue, 22 May 2018 15:37:22 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 2 ] / [failCount] : [ 1 ]  
+Tue, 22 May 2018 15:52:28 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 15:52:29 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 15:52:29 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.526030S) 
+
+Tue, 22 May 2018 15:52:29 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 15:52:29 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 15:52:29 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.434025S) 
+
+Tue, 22 May 2018 15:52:29 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 15:52:29 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 15:52:29 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.457026S) 
+
+Tue, 22 May 2018 15:52:29 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 2 ] / [failCount] : [ 1 ]  
+Tue, 22 May 2018 15:53:43 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 15:53:44 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 15:53:44 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.576033S) 
+
+Tue, 22 May 2018 15:53:44 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 15:53:44 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 15:53:44 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.430025S) 
+
+Tue, 22 May 2018 15:53:44 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 15:53:45 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 15:53:45 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.430024S) 
+
+Tue, 22 May 2018 15:53:45 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 2 ] / [failCount] : [ 1 ]  
+Tue, 22 May 2018 16:35:35 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 16:35:39 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 16:35:39 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:04.523258S) 
+
+Tue, 22 May 2018 16:35:39 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 16:35:41 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 16:35:41 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:01.464084S) 
+
+Tue, 22 May 2018 16:35:41 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 16:35:44 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 16:35:44 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:03.452198S) 
+
+Tue, 22 May 2018 16:35:44 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Started !  
+Tue, 22 May 2018 16:35:45 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Ended ! 
+Tue, 22 May 2018 16:35:45 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:01.449082S) 
+
+Tue, 22 May 2018 16:35:45 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 0 ] / [failCount] : [ 4 ]  
+Tue, 22 May 2018 16:41:21 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 16:41:22 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 16:41:22 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:01.278073S) 
+
+Tue, 22 May 2018 16:41:22 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 16:41:23 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 16:41:23 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.460026S) 
+
+Tue, 22 May 2018 16:41:23 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 16:41:23 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 16:41:23 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.496028S) 
+
+Tue, 22 May 2018 16:41:23 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Started !  
+Tue, 22 May 2018 16:41:24 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Ended ! 
+Tue, 22 May 2018 16:41:24 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.495029S) 
+
+Tue, 22 May 2018 16:41:24 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 2 ] / [failCount] : [ 2 ]  
+Tue, 22 May 2018 16:41:47 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 16:41:47 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 16:41:47 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.545031S) 
+
+Tue, 22 May 2018 16:41:47 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 16:41:48 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 16:41:48 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.459026S) 
+
+Tue, 22 May 2018 16:41:48 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 16:41:48 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 16:41:48 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.510029S) 
+
+Tue, 22 May 2018 16:41:48 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Started !  
+Tue, 22 May 2018 16:41:49 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Ended ! 
+Tue, 22 May 2018 16:41:49 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.527030S) 
+
+Tue, 22 May 2018 16:41:49 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 3 ] / [failCount] : [ 1 ]  
+Tue, 22 May 2018 16:42:13 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 16:42:13 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 16:42:13 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.518030S) 
+
+Tue, 22 May 2018 16:42:13 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 16:42:14 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 16:42:14 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.502029S) 
+
+Tue, 22 May 2018 16:42:14 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 16:42:14 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 16:42:14 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.462026S) 
+
+Tue, 22 May 2018 16:42:14 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Started !  
+Tue, 22 May 2018 16:42:15 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Ended ! 
+Tue, 22 May 2018 16:42:15 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.518030S) 
+
+Tue, 22 May 2018 16:42:15 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 0 ] / [failCount] : [ 4 ]  
+Tue, 22 May 2018 16:44:15 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 16:44:15 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 16:44:15 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.541031S) 
+
+Tue, 22 May 2018 16:44:15 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 16:44:16 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 16:44:16 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.561032S) 
+
+Tue, 22 May 2018 16:44:16 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 16:44:16 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 16:44:16 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.499028S) 
+
+Tue, 22 May 2018 16:44:16 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Started !  
+Tue, 22 May 2018 16:44:17 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Ended ! 
+Tue, 22 May 2018 16:44:17 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.482028S) 
+
+Tue, 22 May 2018 16:44:17 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 3 ] / [failCount] : [ 1 ]  
+Tue, 22 May 2018 16:45:03 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 16:45:03 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 16:45:03 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.566033S) 
+
+Tue, 22 May 2018 16:45:03 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 16:45:04 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 16:45:04 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.632036S) 
+
+Tue, 22 May 2018 16:45:04 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 16:45:05 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 16:45:05 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.644037S) 
+
+Tue, 22 May 2018 16:45:05 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Started !  
+Tue, 22 May 2018 16:45:05 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Ended ! 
+Tue, 22 May 2018 16:45:05 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.476027S) 
+
+Tue, 22 May 2018 16:45:05 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 3 ] / [failCount] : [ 1 ]  
+Tue, 22 May 2018 16:49:49 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 16:49:50 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 16:49:50 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.593034S) 
+
+Tue, 22 May 2018 16:49:50 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 16:49:50 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 16:49:50 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.505029S) 
+
+Tue, 22 May 2018 16:49:50 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 16:49:51 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 16:49:51 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.508029S) 
+
+Tue, 22 May 2018 16:49:51 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Started !  
+Tue, 22 May 2018 16:49:51 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Ended ! 
+Tue, 22 May 2018 16:49:51 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.514029S) 
+
+Tue, 22 May 2018 16:49:51 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 2 ] / [failCount] : [ 2 ]  
+Tue, 22 May 2018 16:51:13 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 16:51:14 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 16:51:14 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.552032S) 
+
+Tue, 22 May 2018 16:51:14 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 16:51:14 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 16:51:14 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.461026S) 
+
+Tue, 22 May 2018 16:51:14 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 16:51:14 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 16:51:14 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.518030S) 
+
+Tue, 22 May 2018 16:51:14 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Started !  
+Tue, 22 May 2018 16:51:15 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Ended ! 
+Tue, 22 May 2018 16:51:15 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.471027S) 
+
+Tue, 22 May 2018 16:51:15 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 2 ] / [failCount] : [ 2 ]  
+Tue, 22 May 2018 16:53:04 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 16:53:04 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 16:53:04 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.546031S) 
+
+Tue, 22 May 2018 16:53:04 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 16:53:05 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 16:53:05 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.496029S) 
+
+Tue, 22 May 2018 16:53:05 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 16:53:05 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 16:53:05 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.497028S) 
+
+Tue, 22 May 2018 16:53:05 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Started !  
+Tue, 22 May 2018 16:53:06 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Ended ! 
+Tue, 22 May 2018 16:53:06 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.517030S) 
+
+Tue, 22 May 2018 16:53:06 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 2 ] / [failCount] : [ 2 ]  
+Tue, 22 May 2018 16:55:04 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 16:55:04 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 16:55:04 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.529030S) 
+
+Tue, 22 May 2018 16:55:04 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 16:55:05 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 16:55:05 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.487028S) 
+
+Tue, 22 May 2018 16:55:05 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 16:55:05 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 16:55:05 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.477027S) 
+
+Tue, 22 May 2018 16:55:05 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Started !  
+Tue, 22 May 2018 16:55:06 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Ended ! 
+Tue, 22 May 2018 16:55:06 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.497029S) 
+
+Tue, 22 May 2018 16:55:06 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 2 ] / [failCount] : [ 2 ]  
+Tue, 22 May 2018 16:56:20 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 16:56:20 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 16:56:20 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.536031S) 
+
+Tue, 22 May 2018 16:56:20 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 16:56:21 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 16:56:21 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.463027S) 
+
+Tue, 22 May 2018 16:56:21 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 16:56:21 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 16:56:21 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.479027S) 
+
+Tue, 22 May 2018 16:56:21 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Started !  
+Tue, 22 May 2018 16:56:22 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Ended ! 
+Tue, 22 May 2018 16:56:22 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.490028S) 
+
+Tue, 22 May 2018 16:56:22 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 2 ] / [failCount] : [ 2 ]  
+Tue, 22 May 2018 17:00:32 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 17:00:33 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 17:00:33 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.569033S) 
+
+Tue, 22 May 2018 17:00:33 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 17:00:33 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 17:00:33 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.474027S) 
+
+Tue, 22 May 2018 17:00:33 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 17:00:34 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 17:00:34 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.475027S) 
+
+Tue, 22 May 2018 17:00:34 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Started !  
+Tue, 22 May 2018 17:00:34 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Ended ! 
+Tue, 22 May 2018 17:00:34 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.514030S) 
+
+Tue, 22 May 2018 17:00:34 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 2 ] / [failCount] : [ 2 ]  
+Tue, 22 May 2018 17:10:54 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 17:10:55 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 17:10:55 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.531030S) 
+
+Tue, 22 May 2018 17:10:55 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 17:10:55 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 17:10:55 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.465027S) 
+
+Tue, 22 May 2018 17:10:55 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 17:10:56 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 17:10:56 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.498028S) 
+
+Tue, 22 May 2018 17:10:56 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Started !  
+Tue, 22 May 2018 17:10:56 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Ended ! 
+Tue, 22 May 2018 17:10:56 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.525030S) 
+
+Tue, 22 May 2018 17:10:56 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 3 ] / [failCount] : [ 1 ]  
+Tue, 22 May 2018 17:26:27 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 17:26:28 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 17:26:28 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.707040S) 
+
+Tue, 22 May 2018 17:26:28 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 17:26:29 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 17:26:29 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.468027S) 
+
+Tue, 22 May 2018 17:26:29 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 17:26:29 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 17:26:29 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.490028S) 
+
+Tue, 22 May 2018 17:26:29 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Started !  
+Tue, 22 May 2018 17:26:30 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Ended ! 
+Tue, 22 May 2018 17:26:30 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.534031S) 
+
+Tue, 22 May 2018 17:26:30 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\PeopleCenter\1_Userdata.py   <<<  Started !  
+Tue, 22 May 2018 17:26:30 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\PeopleCenter\1_Userdata.py   <<<  Ended ! 
+Tue, 22 May 2018 17:26:30 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.467026S) 
+
+Tue, 22 May 2018 17:26:30 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 3 ] / [failCount] : [ 2 ]  
+Tue, 22 May 2018 17:28:40 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 17:28:40 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 17:28:40 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.544031S) 
+
+Tue, 22 May 2018 17:28:40 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 17:28:41 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 17:28:41 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.473027S) 
+
+Tue, 22 May 2018 17:28:41 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 17:28:41 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 17:28:41 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.483028S) 
+
+Tue, 22 May 2018 17:28:41 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Started !  
+Tue, 22 May 2018 17:28:42 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Ended ! 
+Tue, 22 May 2018 17:28:42 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.513029S) 
+
+Tue, 22 May 2018 17:28:42 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\PeopleCenter\1_Userdata.py   <<<  Started !  
+Tue, 22 May 2018 17:28:42 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\PeopleCenter\1_Userdata.py   <<<  Ended ! 
+Tue, 22 May 2018 17:28:42 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.516030S) 
+
+Tue, 22 May 2018 17:28:42 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 4 ] / [failCount] : [ 1 ]  
+Tue, 22 May 2018 17:31:24 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 17:31:24 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 17:31:24 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.564032S) 
+
+Tue, 22 May 2018 17:31:24 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 17:31:25 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 17:31:25 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.479028S) 
+
+Tue, 22 May 2018 17:31:25 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 17:31:25 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 17:31:25 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.489028S) 
+
+Tue, 22 May 2018 17:31:25 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Started !  
+Tue, 22 May 2018 17:31:26 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Ended ! 
+Tue, 22 May 2018 17:31:26 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.519030S) 
+
+Tue, 22 May 2018 17:31:26 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\PeopleCenter\1_Userdata.py   <<<  Started !  
+Tue, 22 May 2018 17:31:26 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\PeopleCenter\1_Userdata.py   <<<  Ended ! 
+Tue, 22 May 2018 17:31:26 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.473027S) 
+
+Tue, 22 May 2018 17:31:26 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 3 ] / [failCount] : [ 2 ]  
+Tue, 22 May 2018 17:31:44 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Started !  
+Tue, 22 May 2018 17:31:45 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\1_Login.py   <<<  Ended ! 
+Tue, 22 May 2018 17:31:45 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.561032S) 
+
+Tue, 22 May 2018 17:31:45 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Started !  
+Tue, 22 May 2018 17:31:45 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\2_FirstLogin.py   <<<  Ended ! 
+Tue, 22 May 2018 17:31:45 Entrance.py [line:61] INFO: Result [ Failed ] ==> Used (0:00:00.514029S) 
+
+Tue, 22 May 2018 17:31:45 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Started !  
+Tue, 22 May 2018 17:31:46 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\3_Logout.py   <<<  Ended ! 
+Tue, 22 May 2018 17:31:46 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.524030S) 
+
+Tue, 22 May 2018 17:31:46 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Started !  
+Tue, 22 May 2018 17:31:46 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\LoginModule\4_ModifyPwd.py   <<<  Ended ! 
+Tue, 22 May 2018 17:31:46 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.531031S) 
+
+Tue, 22 May 2018 17:31:46 Entrance.py [line:44] INFO: [*] TestCase >>>   .\TestCase\PeopleCenter\1_Userdata.py   <<<  Started !  
+Tue, 22 May 2018 17:31:47 Entrance.py [line:60] INFO: [*] TestCase >>>   .\TestCase\PeopleCenter\1_Userdata.py   <<<  Ended ! 
+Tue, 22 May 2018 17:31:47 Entrance.py [line:61] INFO: Result [ Pass ] ==> Used (0:00:00.544031S) 
+
+Tue, 22 May 2018 17:31:47 Entrance.py [line:67] INFO: [*] All Result [passCount] : [ 4 ] / [failCount] : [ 1 ]  
